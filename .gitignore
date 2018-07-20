@@ -1,0 +1,5 @@
+.bundle
+vendor/
+
+data/*
+!data/sample.xlsx
